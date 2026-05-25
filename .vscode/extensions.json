@@ -1,4 +1,10 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "shd101wyy.markdown-preview-enhanced",
+    "vscode-icons-team.vscode-icons",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github"
+  ],
   "unwantedRecommendations": []
 }
